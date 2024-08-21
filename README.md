@@ -12,23 +12,23 @@ A Space Shooting Game with Space Key only.(2018)
 
 https://github.com/user-attachments/assets/dbc2bb63-5e7b-47c8-8b8c-143b1946ff36
 
-Item<Blue>
+Item"Blue"
 
 
 
 https://github.com/user-attachments/assets/eb893ee4-606d-4c0e-a84e-a13b9a492083
 
-Item<Green>
+Item"Green"
 
 
 
 https://github.com/user-attachments/assets/601d7ddb-ad46-4d6a-97e0-dc13e42f480a
 
-Item<White>
+Item"White"
 
 
 
 https://github.com/user-attachments/assets/5e1bc213-6637-402b-ba4a-cb51e177ee10
 
-Item<Yellow>
+Item"Yellow"
 
